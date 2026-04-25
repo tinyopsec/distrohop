@@ -4,7 +4,7 @@
 > *From minimal Alpine containers to fully riced Arch setups.*
 
 <p align="center">
-  <sub>« Screenshot collection — work in progress »</sub>
+  <sub>« Screenshot collection, work in progress »</sub>
 </p>
 
 ---
@@ -16,6 +16,7 @@
 <p align="center">
   <img src="assets/arch.webp" alt="Arch Linux Screenshot 1" width="49%">
   <img src="assets/arch1.webp" alt="Arch Linux Screenshot 2" width="49%">
+   <img src="assets/arch2.webp" alt="Arch Linux Screenshot 3" width="49%">
 </p>
 
 ---
