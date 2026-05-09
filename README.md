@@ -28,6 +28,7 @@
 <p align="center">
   <img src="assets/alpine.webp" alt="Alpine Linux Screenshot 1" width="49%">
   <img src="assets/alpine1.webp" alt="Alpine Linux Screenshot 2" width="49%">
+    <img src="assets/alpine2.webp" alt="Alpine Linux Screenshot 3" width="49%">
 </p>
 
 ---
