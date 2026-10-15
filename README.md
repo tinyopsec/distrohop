@@ -23,6 +23,7 @@ _Screenshot collection, work in progress._
 - [Arch Linux](#arch-linux)
 - [Alpine Linux](#alpine-linux)
 - [Void Linux](#void-linux)
+- [FreeBSD](#freebsd)
 - [Repository structure](#repository-structure)
 - [Collection notes](#collection-notes)
 - [License](#license)
@@ -72,6 +73,16 @@ This repository is a screenshot journal of Linux systems I run and experiment wi
 
 ---
 
+## FreeBSD
+
+> The complete operating system. ZFS, jails, and a ports collection with decades of history.
+
+<p align="center">
+  <img src="assets/freebsd.png" alt="FreeBSD Screenshot" width="49%">
+</p>
+
+---
+
 ## Repository structure
 
 ```text
@@ -79,7 +90,8 @@ distrohop/
 ├── assets/
 │   ├── arch*.webp     # Arch Linux screenshots
 │   ├── alpine*.webp   # Alpine Linux screenshots
-│   └── void*.webp     # Void Linux screenshots
+│   ├── void*.webp     # Void Linux screenshots
+│   └── freebsd.png    # FreeBSD screenshot
 ├── LICENSE
 └── README.md
 ```
