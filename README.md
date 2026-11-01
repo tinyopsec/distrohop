@@ -69,6 +69,7 @@ This repository is a screenshot journal of Linux systems I run and experiment wi
   <img src="assets/void1.webp" alt="Void Linux + dwl" width="49%">
   <img src="assets/void2.webp" alt="Void Linux + dwl" width="49%">
   <img src="assets/void3.webp" alt="Void Linux + dwl" width="49%">
+  <img src="assets/void4.webp" alt="Void Linux + nwm" width="49%">
   <img src="assets/void5.png" alt="Void Linux + wlroots wm" width="49%">
 </p>
 
@@ -92,6 +93,7 @@ distrohop/
 │   ├── arch*.webp     # Arch Linux screenshots
 │   ├── alpine*.webp   # Alpine Linux screenshots
 │   ├── void*.webp     # Void Linux screenshots
+│   ├── void4.webp     # Void Linux screenshot
 │   ├── void5.png      # Void Linux screenshot
 │   └── freebsd.png    # FreeBSD screenshot
 ├── LICENSE
