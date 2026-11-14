@@ -56,6 +56,7 @@ This repository is a screenshot journal of Linux systems I run and experiment wi
   <img src="assets/alpine.webp" alt="Alpine Linux Screenshot 1" width="49%">
   <img src="assets/alpine1.webp" alt="Alpine Linux Screenshot 2" width="49%">
   <img src="assets/alpine2.webp" alt="Alpine Linux Screenshot 3" width="49%">
+  <img src="assets/alpine3.webp" alt="Alpine Linux Screenshot 4" width="49%">
 </p>
 
 ---
@@ -92,6 +93,7 @@ distrohop/
 ├── assets/
 │   ├── arch*.webp     # Arch Linux screenshots
 │   ├── alpine*.webp   # Alpine Linux screenshots
+│   ├── alpine3.webp   # Alpine Linux screenshot
 │   ├── void*.webp     # Void Linux screenshots
 │   ├── void4.webp     # Void Linux screenshot
 │   ├── void5.png      # Void Linux screenshot
