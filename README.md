@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/cover.png" alt="distrohop cover" width="100%">
+
 # distrohop
 
 > A visual log of systems I've used and configured.
