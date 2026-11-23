@@ -17,25 +17,6 @@ _Screenshot collection, work in progress._
 
 ---
 
-## Contents
-
-- [About](#about)
-- [Arch Linux](#arch-linux)
-- [Alpine Linux](#alpine-linux)
-- [Void Linux](#void-linux)
-- [FreeBSD](#freebsd)
-- [Repository structure](#repository-structure)
-- [Collection notes](#collection-notes)
-- [License](#license)
-
----
-
-## About
-
-This repository is a screenshot journal of Linux systems I run and experiment with. Not just dotfiles, but the actual look and feel of each setup.
-
----
-
 ## Arch Linux
 
 > Primary workstation. Tiling window managers, custom kernel tweaks, and a clean dark aesthetic.
@@ -85,26 +66,6 @@ This repository is a screenshot journal of Linux systems I run and experiment wi
 <p align="center">
   <img src="assets/freebsd.png" alt="FreeBSD Screenshot" width="49%">
 </p>
-
----
-
-## Repository structure
-
-```text
-distrohop/
-├── assets/
-│   ├── arch*.webp     # Arch Linux screenshots
-│   ├── alpine*.webp   # Alpine Linux screenshots
-│   ├── alpine3.webp   # Alpine Linux screenshot
-│   ├── void*.webp     # Void Linux screenshots
-│   ├── void4.webp     # Void Linux screenshot
-│   ├── void5.png      # Void Linux screenshot
-│   ├── void6.webp     # Void Linux screenshot
-│   ├── void7.webp     # Void Linux screenshot
-│   └── freebsd.png    # FreeBSD screenshot
-├── LICENSE
-└── README.md
-```
 
 ---
 
