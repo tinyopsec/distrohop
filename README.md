@@ -57,6 +57,7 @@ This repository is a screenshot journal of Linux systems I run and experiment wi
   <img src="assets/alpine1.webp" alt="Alpine Linux Screenshot 2" width="49%">
   <img src="assets/alpine2.webp" alt="Alpine Linux Screenshot 3" width="49%">
   <img src="assets/alpine3.webp" alt="Alpine Linux Screenshot 4" width="49%">
+  <img src="assets/alpine4.webp" alt="Alpine Linux Screenshot 5" width="49%">
 </p>
 
 ---
@@ -72,6 +73,8 @@ This repository is a screenshot journal of Linux systems I run and experiment wi
   <img src="assets/void3.webp" alt="Void Linux + dwl" width="49%">
   <img src="assets/void4.webp" alt="Void Linux + nwm" width="49%">
   <img src="assets/void5.png" alt="Void Linux + wlroots wm" width="49%">
+  <img src="assets/void6.webp" alt="Void Linux + nwm" width="49%">
+  <img src="assets/void7.webp" alt="Void Linux + nano" width="49%">
 </p>
 
 ---
@@ -94,9 +97,12 @@ distrohop/
 │   ├── arch*.webp     # Arch Linux screenshots
 │   ├── alpine*.webp   # Alpine Linux screenshots
 │   ├── alpine3.webp   # Alpine Linux screenshot
+│   ├── alpine4.webp   # Alpine Linux screenshot
 │   ├── void*.webp     # Void Linux screenshots
 │   ├── void4.webp     # Void Linux screenshot
 │   ├── void5.png      # Void Linux screenshot
+│   ├── void6.webp     # Void Linux screenshot
+│   ├── void7.webp     # Void Linux screenshot
 │   └── freebsd.png    # FreeBSD screenshot
 ├── LICENSE
 └── README.md
