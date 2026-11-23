@@ -4,16 +4,22 @@
 
 <img src="assets/cover.webp" alt="distrohop cover" width="75%">
 
-> A visual log of systems I've used and configured.
+> Screenshots of the systems I've used and set up.
 >
-> *From minimal Alpine containers to fully riced Arch setups.*
+> *From small Alpine containers to my Arch desktop.*
 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://github.com/tinyopsec/distrohop)
-[![WebP](https://img.shields.io/badge/images-WebP-blue?style=flat)](./assets)
-[![Status](https://img.shields.io/badge/status-work_in_progress-yellow?style=flat)](https://github.com/tinyopsec/distrohop)
-[![License](https://img.shields.io/badge/license-MIT-green?style=flat)](./LICENSE)
+[![Linux](https://img.shields.io/badge/os-linux-382C26?style=flat&logo=linux&logoColor=EFE7DA&labelColor=1A1310)](https://github.com/tinyopsec/distrohop)
+[![WebP](https://img.shields.io/badge/images-WebP-5E4D42?style=flat&labelColor=1A1310)](./assets)
+[![Status](https://img.shields.io/badge/status-work_in_progress-8F7B6A?style=flat&labelColor=1A1310)](https://github.com/tinyopsec/distrohop)
+[![License](https://img.shields.io/badge/license-MIT-C9BAA6?style=flat&labelColor=1A1310)](./LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/tinyopsec/distrohop?style=flat&color=EFE7DA&labelColor=1A1310)](https://github.com/tinyopsec/distrohop/commits)
 
-_Screenshot collection, work in progress._
+[![Arch](https://img.shields.io/badge/Arch-daily_driver-382C26?style=flat&logo=archlinux&logoColor=EFE7DA&labelColor=1A1310)](#arch-linux)
+[![Alpine](https://img.shields.io/badge/Alpine-containers-5E4D42?style=flat&logo=alpinelinux&logoColor=EFE7DA&labelColor=1A1310)](#alpine-linux)
+[![Void](https://img.shields.io/badge/Void-runit-8F7B6A?style=flat&logo=voidlinux&logoColor=EFE7DA&labelColor=1A1310)](#void-linux)
+[![FreeBSD](https://img.shields.io/badge/FreeBSD-zfs_and_jails-C9BAA6?style=flat&logo=freebsd&logoColor=EFE7DA&labelColor=1A1310)](#freebsd)
+
+_Still a work in progress. I add screenshots as I go._
 
 </div>
 
@@ -33,7 +39,7 @@ _Screenshot collection, work in progress._
 
 ## Alpine Linux
 
-> The lightweight powerhouse. Used for containers, VMs, and testing on ancient hardware. Busybox supremacy.
+> Very small and light. I use it for containers, VMs, and testing on old hardware.
 
 <p align="center">
   <img src="assets/alpine.webp" alt="Alpine Linux Screenshot 1" width="49%">
@@ -46,7 +52,7 @@ _Screenshot collection, work in progress._
 
 ## Void Linux
 
-> Rolling release without systemd. XBPS is fast and reliable, runit keeps things simple and predictable.
+> A rolling release without systemd. I like that XBPS is fast and runit is easy to understand.
 
 <p align="center">
   <img src="assets/void.webp" alt="Void Linux + nwm" width="49%">
@@ -63,7 +69,7 @@ _Screenshot collection, work in progress._
 
 ## FreeBSD
 
-> The complete operating system. ZFS, jails, and a ports collection with decades of history.
+> I mostly use it for ZFS and jails. The ports collection is a nice bonus.
 
 <p align="center">
   <img src="assets/freebsd.png" alt="FreeBSD Screenshot" width="49%">
@@ -73,9 +79,9 @@ _Screenshot collection, work in progress._
 
 ## Collection notes
 
-- **Why screenshots?** Because dotfiles tell *what* you use, but screenshots tell *how* you use it.
-- **Format:** All images are optimized WebP for size and quality.
-- **Status:** Work in progress. Updated whenever a setup changes.
+- **Why screenshots?** Dotfiles show what I use, screenshots show how it actually looks.
+- **Format:** Images are WebP, so the files stay small.
+- **Status:** Work in progress. I update it when a setup changes.
 
 ---
 
@@ -86,6 +92,6 @@ MIT. See [LICENSE](./LICENSE) for details.
 <p align="center">
   <br>
   <a href="https://github.com/tinyopsec">
-    <img src="https://img.shields.io/badge/tinyopsec-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/tinyopsec-382C26?style=flat&logo=github&logoColor=EFE7DA&labelColor=1A1310" alt="GitHub">
   </a>
 </p>
