@@ -1,8 +1,15 @@
 <div align="center">
 
-<img src="assets/distrohop.webp" alt="distrohop" width="20%">
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/distrohop_dark.webp">
+    <img src="assets/distrohop_light.webp" alt="distrohop" width="420">
+  </picture>
+</h1>
 
 <img src="assets/cover.webp" alt="distrohop cover" width="75%">
+
+<br>
 
 > Screenshots of the systems I've used and set up.
 >
