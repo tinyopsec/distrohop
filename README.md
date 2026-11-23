@@ -1,19 +1,20 @@
 <div align="center">
 
-<h1>
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/distrohop_dark.webp">
     <img src="assets/distrohop_light.webp" alt="distrohop" width="420">
   </picture>
-</h1>
+</p>
 
-<img src="assets/cover.webp" alt="distrohop cover" width="75%">
+<p align="center">
+  <img src="assets/cover.webp" alt="distrohop cover" width="75%">
+</p>
 
-<br>
-
-> Screenshots of the systems I've used and set up.
->
-> *From small Alpine containers to my Arch desktop.*
+<p align="center">
+  Screenshots of the systems I've used and set up.<br>
+  <em>From small Alpine containers to my Arch desktop.</em>
+</p>
 
 [![Linux](https://img.shields.io/badge/os-linux-382C26?style=flat&logo=linux&logoColor=EFE7DA&labelColor=1A1310)](https://github.com/tinyopsec/distrohop)
 [![WebP](https://img.shields.io/badge/images-WebP-5E4D42?style=flat&labelColor=1A1310)](./assets)
