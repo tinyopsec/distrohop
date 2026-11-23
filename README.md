@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/cover.webp" alt="distrohop cover" width="100%">
-
 # distrohop
+
+<img src="assets/cover.webp" alt="distrohop cover" width="50%">
 
 > A visual log of systems I've used and configured.
 >
