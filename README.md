@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/cover.png" alt="distrohop cover" width="100%">
+<img src="assets/cover.webp" alt="distrohop cover" width="100%">
 
 # distrohop
 
