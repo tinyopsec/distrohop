@@ -2,7 +2,7 @@
 
 # distrohop
 
-<img src="assets/cover.webp" alt="distrohop cover" width="50%">
+<img src="assets/cover.webp" alt="distrohop cover" width="75%">
 
 > A visual log of systems I've used and configured.
 >
